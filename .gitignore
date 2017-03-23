@@ -1,0 +1,16 @@
+env/
+data/*.csv
+
+*~
+*.pyc
+*.sw*
+.ipynb_checkpoints
+
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+tags
